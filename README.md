@@ -40,7 +40,7 @@ This project is an end-to-end Python automation pipeline designed to process, cl
 
 2. **Execute the Script:** 
    ```bash
-   python lead_processor.py
+   python lead_scraper.py
 
 3. **View the Output:** The script will immediately generate a `FINAL_CLEAN_LEADS.xlsx` file in your folder, then enter a listening state to demonstrate the daily scheduling trigger. Press `Ctrl+C` to exit.
 
@@ -48,10 +48,13 @@ This project is an end-to-end Python automation pipeline designed to process, cl
 
 ## Project Structure
 
+## 📁 Project Structure
+
+```text
 lead-generation-pipeline/
 │
-├── lead_processor.py        # Main automation script & pipeline logic
-├── raw_leads.csv            # Simulated "dirty" input dataset (includes NGOs & Corporates)
+├── lead_scraper.py        # Main automation script & pipeline logic
+├── raw_leads.csv            # Simulated "dirty" input dataset
 ├── requirements.txt         # Project dependencies
 ├── .gitignore               # Environment and artifact exclusion
 └── README.md                # Project documentation
