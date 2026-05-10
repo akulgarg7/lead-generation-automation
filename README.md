@@ -48,8 +48,6 @@ This project is an end-to-end Python automation pipeline designed to process, cl
 
 ## Project Structure
 
-## 📁 Project Structure
-
 ```text
 lead-generation-pipeline/
 │
