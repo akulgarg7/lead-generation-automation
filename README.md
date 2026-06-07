@@ -3,8 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=flat&logo=pandas)](https://pandas.pydata.org/)
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
-
-**Submission for:** Python Automation Internship @ Jarurat Care  
+  
 **Akul Garg**
 
 ---
